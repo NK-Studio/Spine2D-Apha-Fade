@@ -8,6 +8,13 @@
         "com.unity.render-pipelines.universal": "7.1.5"
       }
     },
+    "com.nkstudio.ufolder": {
+      "version": "https://github.com/NK-Studio/UFolder.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d6194a40d07e7c73673b4397347cec3bb5aac914"
+    },
     "com.unity.2d.animation": {
       "version": "9.0.4",
       "depth": 1,
