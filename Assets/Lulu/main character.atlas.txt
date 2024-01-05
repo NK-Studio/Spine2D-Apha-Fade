@@ -1,0 +1,120 @@
+main character.png
+	size: 2010, 1874
+	filter: Linear, Linear
+	pma: true
+Bell
+	bounds: 1737, 29, 156, 137
+	rotate: 90
+Cloak
+	bounds: 2, 325, 632, 686
+	offsets: 0, 0, 632, 775
+Eye
+	bounds: 685, 1015, 383, 139
+Eye 2
+	bounds: 636, 333, 387, 100
+Eye 3
+	bounds: 1907, 565, 386, 91
+	rotate: 90
+Eye 4
+	bounds: 1543, 25, 368, 44
+	rotate: 90
+Eye 5
+	bounds: 1394, 10, 383, 147
+	rotate: 90
+Eye 6
+	bounds: 1909, 1400, 372, 96
+	rotate: 90
+Eye7
+	bounds: 1070, 1018, 383, 139
+Eye8
+	bounds: 1589, 187, 383, 139
+Eyebrow
+	bounds: 1907, 1026, 372, 96
+	rotate: 90
+Leg L
+	bounds: 1184, 567, 234, 405
+	offsets: 0, 1, 237, 406
+	rotate: 90
+Leg R
+	bounds: 1022, 1159, 239, 377
+	rotate: 90
+UP Leg L
+	bounds: 1401, 1202, 198, 258
+	offsets: 0, 0, 198, 278
+	rotate: 90
+UP Leg R
+	bounds: 1668, 1475, 237, 239
+	rotate: 90
+arm L
+	bounds: 1589, 3, 146, 182
+	offsets: 97, 131, 243, 313
+arm L2
+	bounds: 1394, 395, 170, 186
+	offsets: 31, 51, 243, 313
+	rotate: 90
+arm R
+	bounds: 1184, 817, 199, 243
+	rotate: 90
+back hair
+	bounds: 1321, 1402, 345, 310
+body
+	bounds: 1025, 333, 230, 367
+	offsets: 0, 0, 230, 392
+	rotate: 90
+dash_glow_white
+	bounds: 796, 567, 386, 446
+	offsets: 39, 1, 426, 448
+face
+	bounds: 927, 2, 402, 329
+	offsets: 0, 1, 402, 330
+fist
+	bounds: 1755, 827, 77, 79
+	offsets: 19, 17, 112, 107
+foot L
+	bounds: 1909, 1774, 99, 98
+	offsets: 1, 1, 101, 100
+foot R
+	bounds: 796, 443, 122, 76
+	offsets: 1, 2, 124, 79
+	rotate: 90
+hair
+	bounds: 2, 1013, 681, 859
+hand L
+	bounds: 636, 435, 576, 158
+	rotate: 90
+hand R
+	bounds: 1667, 818, 88, 86
+	offsets: 19, 10, 112, 107
+	rotate: 90
+hand_L_f
+	bounds: 1331, 1714, 576, 158
+headgear
+	bounds: 1668, 908, 565, 237
+	rotate: 90
+motion_bright_1
+	bounds: 1025, 1465, 407, 294
+	offsets: 8, 2, 419, 298
+	rotate: 90
+motion_bright_2
+	bounds: 2, 6, 408, 317
+	offsets: 15, 1, 425, 319
+motion_dark_1
+	bounds: 412, 9, 513, 314
+	offsets: 9, 83, 563, 401
+motion_dark_2
+	bounds: 1591, 328, 473, 308
+	offsets: 24, 29, 509, 384
+	rotate: 90
+mouth
+	bounds: 1907, 953, 96, 71
+nose
+	bounds: 1331, 256, 42, 75
+shoulder
+	bounds: 1455, 803, 397, 210
+	rotate: 90
+tail
+	bounds: 685, 1156, 383, 335
+	rotate: 90
+white_dash_motion_1
+	bounds: 685, 1541, 336, 331
+	offsets: 36, 10, 393, 349
